@@ -2,7 +2,7 @@
 	
 	layout: slide
 	
-	title: "Welcome to our second slide!"
+	title: "I will always be praying for all the ankles I broke :D"
 	
 	---
 	
